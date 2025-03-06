@@ -9,6 +9,11 @@ aboutMe = {
 };
 ```
 
+> ### 👇🏻 Join Discord Community
+>
+> <a href="https://discord.gg/yyRUFf2e" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+> </a>
+</br>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asiata25&theme=tokyonight&show_icons=true&rank_icon=github" />
@@ -204,7 +209,6 @@ aboutMe = {
 </div>
 </br>
 <!-- BEGIN YOUTUBE-CARDS -->
-[![101 Customize Bootstrap - Lutfi Khoir | Bootstrap](https://ytcards.demolab.com/?id=eDDNJsXXLcI&title=101+Customize+Bootstrap+-+Lutfi+Khoir+%7C+Bootstrap&lang=en&timestamp=1656488337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "101 Customize Bootstrap - Lutfi Khoir | Bootstrap")](https://www.youtube.com/watch?v=eDDNJsXXLcI)
 <!-- END YOUTUBE-CARDS -->
 
 </br>
