@@ -4,12 +4,12 @@
 aboutMe = {
   name: "Lutfi Khoir",
   nickName: ["Khoir", "Lutfi"],
-  currentFocus: "Building community to learn code on discord",
+  currentFocus: "On a Journey to Explore Everything in YouTube",
   funFact: "I have strong knowledge in UI/UX design",
 };
 ```
 
-> ### 👇🏻 Join Discord Community
+<!-- > ### 👇🏻 Join Discord Community
 >
 > <a href="https://discord.gg/yyRUFf2e" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 > </a>
@@ -21,11 +21,11 @@ aboutMe = {
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiata25&layout=compact&langs_count=8&theme=prussian" />
 </a>
-</p>
+</p> -->
 
 </br>
 
-# 🔥 Tech Arsenal
+# 🔥 Tech I Code 
 
   <!-- Frontend Spellbook -->
   <details>
@@ -160,17 +160,17 @@ aboutMe = {
 
 <em>Don't hesitate to reach out if you want to collaborate on a project or just chat!</em></br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="mailto:asiatakh25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/lutfikhoir/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01b90c65586685a1ea" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~" target="_blank">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
   </a>
-</div>
+</div> -->
 </br>
 <div align="center">
   <a href="https://x.com/lutfikhoir25" target="_blank">
@@ -188,21 +188,21 @@ aboutMe = {
   <a href="https://www.tiktok.com/@lutfi.khoirudin" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok" />
   </a>
-  <a href="https://www.behance.net/lutfikhoir" target="_blank">
+  <!-- <a href="https://www.behance.net/lutfikhoir" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://dribbble.com/lutfikhoir" target="_blank">
+  </a> -->
+  <!-- <a href="https://dribbble.com/lutfikhoir" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-  </a>
-  <a href="https://dev.to/lutfi_khoir" target="_blank">
+  </a> -->
+  <!-- <a href="https://dev.to/lutfi_khoir" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
+  </a> -->
   <!-- <a href="https://stackoverflow.com/users/13339795/lutfi-khoirudin" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a> -->
-  <a href="https://www.codewars.com/users/asiata25" target="_blank">
+  <!-- <a href="https://www.codewars.com/users/asiata25" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars" />
-  </a>
+  </a> -->
   <!-- <a href="https://stackoverflow.com/users/youruserid" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a> -->
