@@ -160,34 +160,34 @@ aboutMe = {
 
 <em>Don't hesitate to reach out if you want to collaborate on a project or just chat!</em></br>
 
-<!-- <div align="center">
-  <a href="mailto:asiatakh25@gmail.com" target="_blank">
+<div align="center">
+  <a href="mailto:khoircontact@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/lutfikhoir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~" target="_blank">
+<!--   <a href="https://www.upwork.com/freelancers/~" target="_blank">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
-  </a>
-</div> -->
+  </a> -->
+</div>
 </br>
 <div align="center">
-  <a href="https://x.com/lutfikhoir25" target="_blank">
+  <a href="https://x.com/lutfikhoir2502" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/@lutfikhoir2502" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.threads.net/@lutfi.khoirudin" target="_blank">
+  <a href="https://www.threads.com/@lutfikhoir2502" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://www.instagram.com/lutfi.khoirudin" target="_blank">
+  <a href="https://www.instagram.com/lutfikhoir2502/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@lutfi.khoirudin" target="_blank">
+<!--   <a href="https://www.tiktok.com/@lutfi.khoirudin" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok" />
-  </a>
+  </a> -->
   <!-- <a href="https://www.behance.net/lutfikhoir" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
   </a> -->
